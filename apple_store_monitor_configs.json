@@ -1,15 +1,19 @@
 {
   "selected_products": {
-    "MGYJ3CH/A": [
-      "AirPods Max",
-      "AirPods Max - 银色"
+    "MQ1C3CH/A": [
+      "iPhone 14 Pro",
+      "256GB \u6697\u7d2b\u8272"
     ],
-    "MLHG3CH/A": [
-      "iPhone 13 Pro Max",
-      "512GB 远峰蓝色"
+    "MQ0W3CH/A": [
+      "iPhone 14 Pro",
+      "256GB \u767d\u8272"
+    ],
+    "MQ263CH/A": [
+      "iPhone 14 Pro",
+      "512GB \u6697\u7d2b\u8272"
     ]
   },
-  "selected_area": "上海 上海 黄浦区",
+  "selected_area": "\u4e0a\u6d77 \u4e0a\u6d77 \u9ec4\u6d66\u533a",
   "exclude_stores": [
     "R688",
     "R574",
@@ -23,8 +27,8 @@
       "secret_key": ""
     },
     "telegram": {
-      "chat_id": "",
       "bot_token": "",
+      "chat_id": "",
       "http_proxy": ""
     },
     "bark": {

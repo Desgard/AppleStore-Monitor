@@ -87,5 +87,29 @@
       "MLHH3CH/A": "1TB 石墨色",
       "MLHJ3CH/A": "1TB 银色"
     }
+  },
+  "iPhone 14": {
+    "iPhone 14": {
+      "MPVG3CH/A": "128GB 蓝色",
+      "MPWL3CH/A": "256GB 蓝色"
+    },
+    "iPhone 14 Pro": {
+      "MQ0D3CH/A": "128GB 暗紫色",
+      "MQ1C3CH/A": "256GB 暗紫色",
+      "MQ263CH/A": "512GB 暗紫色",
+      "MQ2Y3CH/A": "1TB 暗紫色",
+      "MQ053CH/A": "128GB 金色",
+      "MQ143CH/A": "256GB 金色", 
+      "MQ203CH/A": "512GB 金色",
+      "MQ2R3CH/A": "1TB 金色",
+      "MPXY3CH/A": "128GB 白色", 
+      "MQ0W3CH/A": "256GB 白色",
+      "MQ1R3CH/A": "512GB 白色",
+      "MQ2K3CH/A": "1TB 白色",
+      "MPXR3CH/A": "128GB 深空黑色",
+      "MQ0M3CH/A": "256GB 深空黑色",
+      "MQ1J3CH/A": "512GB 深空黑色",
+      "MQ2D3CH/A": "1TB 深空黑色"
+    }
   }
 }
